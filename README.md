@@ -1,7 +1,20 @@
 # Dama italiana [![CI/CD](https://github.com/softeng2021-inf-uniba/progetto2021ter-glass/actions/workflows/ingsw2021.yml/badge.svg)](https://github.com/softeng2021-inf-uniba/progetto2021ter-glass/actions/workflows/ingsw2021.yml) [![Coverage Status](https://coveralls.io/repos/github/softeng2021-inf-uniba/progetto2021ter-glass/badge.svg?t=tubCj2)](https://coveralls.io/github/softeng2021-inf-uniba/progetto2021ter-glass)
 
+⚽ Gioco della dama italiana 
 
-La struttura della repository si presenta nel seguente modo:
+📚 Concetti e tecnologie approfondite: principi di ingegneria del software, lavoro in team, comandi principali di Git Bash da terminale, programmazione ad oggetti, funzionamento di Docker. 
+
+🎮 Working Team:
+- Giacomo Mauro
+- Giuseppe Monitillo
+- Rossella Sgaramella
+- Angelo Sorangelo
+- Vittoria Stella
+- Rosa Vicenti
+- Vito Vicenti
+
+
+✔️ La struttura della repository si presenta nel seguente modo:
 ```
 |-- .github
 |    |-- workflows
